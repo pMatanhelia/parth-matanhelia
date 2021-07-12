@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently learning python. I dont really know how Github works so dont expect much from me
 
 <!--
 **parth-matanhelia/parth-matanhelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
